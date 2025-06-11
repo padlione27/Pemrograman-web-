@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head><title>Image HTML</title></head>
+<body>
+  <img src="koala.jpg" alt="gambar koala" />
+</body>
+</html>
