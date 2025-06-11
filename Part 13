@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head><title>Comments HTML</title></head>
+<body>
+  <!-- Ini adalah komentar HTML -->
+  <h1>Judul Halaman</h1>
+  <p>Paragraf dengan komentar di atas</p>
+  <!-- Komentar tidak terlihat di browser -->
+</body>
+</html>
