@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head><title>Heading HTML</title></head>
+<body>
+  <h1>Judul Artikel</h1>
+  <h2>Sub Judul Artikel 1</h2>
+  <p>...pembahasan artikel 1...</p>
+  <h2>Sub Judul Artikel 2</h2>
+  <p>...pembahasan artikel 2...</p>
+</body>
+</html>
