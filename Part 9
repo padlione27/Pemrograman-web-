@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><title>List HTML</title></head>
+<body>
+  <h2>Daftar Belanjaan</h2>
+  <ol>
+    <li>Minyak Goreng</li>
+    <li>Sabun Mandi</li>
+    <li>Deterjen</li>
+    <li>Shampoo</li>
+    <li>Obat Nyamuk</li>
+  </ol>
+  <ul>
+    <li>Satu</li>
+    <li>Dua</li>
+    <li>Tiga</li>
+  </ul>
+</body>
+</html>
